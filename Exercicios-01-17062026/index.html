@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loja de PI</title>
+</head>
+
+<body>
+    <?php
+define ("NOME_DA_LOJA", "Loja de pi");
+$nome_produto = "codigo PHP";
+$preco = 10.50;
+$quantidade = 5;
+$total = $preco * $quantidade;
+echo "<h1>" . NOME_DA_LOJA . "</h1>";
+echo "<p> Produto: " . $nome_produto . "</p>";
+echo "<p> Total: R$ " . number_format($total, 2) . "</p>";
+?>
+</body>
+<?php src="index.php" ?>
+</html>

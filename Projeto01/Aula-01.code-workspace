@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../Aula-01"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Projeto02"
+		},
+		{
+			"path": "../Projeto03"
+		},
+		{
+			"path": "../Projeto04"
+		},
+		{
+			"path": "../Projeto05"
+		},
+		{
+			"path": "../Exercicios-17062026"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Aula-01"
+	}
+}
